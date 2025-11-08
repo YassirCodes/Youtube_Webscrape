@@ -116,12 +116,11 @@ class RandomUserAgentMiddleware:
 
 class ProxyMiddleware:
     def __init__(self):
-        # Replace with your own list of proxies (HTTP or HTTPS)
+
         self.proxies = [
             "http://51.158.68.133:8811",
             "http://103.152.112.162:80",
             "http://103.172.70.121:80",
-            # Add more free or paid proxies here
         ]
 
     def process_request(self, request, spider):
