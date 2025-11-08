@@ -30,10 +30,3 @@ C --> D[Extract ytInitialData JSON]
 D --> E[Parse Video Metadata]
 E --> F[Pipeline - yt-dlp Downloads Video]
 F --> G[Export Results to CSV]
-
-## ⚙️ Installation
-
-### Clone this repository
-```bash
-git clone https://github.com/YassirCodes/Youtube_Webscraping.git
-cd Youtube_Webscraping
