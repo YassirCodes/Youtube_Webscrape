@@ -36,7 +36,7 @@ F --> G[Export Results to CSV]
 
 ### Clone this repository
 ```bash
-git clone https://github.com/YassirCodes/Youtube_Webscraping.git
+git clone https://github.com/YassirCodes/Youtube_Webscrape.git
 cd Youtube_Webscraping
 ```
 
